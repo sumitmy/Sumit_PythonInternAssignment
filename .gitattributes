@@ -1,0 +1,2 @@
+android.qcow2 filter=lfs diff=lfs merge=lfs -text
+android-x86_64-9.0-r2.iso filter=lfs diff=lfs merge=lfs -text
